@@ -1,10 +1,10 @@
-### Hi，this is Xie here. 👋  <img  src="https://github-readme-stats.vercel.app/api?username=Xie1522" align='right'/>
+### Hi，this is Xie here. 👋  <img  src="https://github-readme-stats.vercel.app/api?username=Xie1522&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" align='right'/>
 ### I'm Xie
 I like use:  
 * ![](https://img.shields.io/badge/Python-plastic?style=plastic&logo=python&color=green&link=https://python.org)  
 * ![](https://img.shields.io/badge/Git-plastic?style=plastic&logo=git&color=blace&link=https://git-scm.com/)  
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xie1522&layout=compact" align='right'/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xie1522&layout=compact&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" align='right'/>
 
 
 
