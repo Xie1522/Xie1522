@@ -2,7 +2,10 @@
 ### I'm Xie
 I like use:  
 * ![](https://img.shields.io/badge/Python-plastic?style=plastic&logo=python&color=green&link=https://python.org)  
-* ![](https://img.shields.io/badge/Git-plastic?style=plastic&logo=git&color=blace&link=https://git-scm.com/)
+* ![](https://img.shields.io/badge/Git-plastic?style=plastic&logo=git&color=blace&link=https://git-scm.com/)  
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xie1522&layout=compact" align='right'/>
+
 
 
 <!--
